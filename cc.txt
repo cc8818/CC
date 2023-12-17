@@ -1,7 +1,7 @@
 {
-  "spider": "./jar/HeChengChaXiu.jar",
+  "spider": "./jar/cc.jar",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
+  "warningText": "cc自用",
   "sites": [
     
     {
