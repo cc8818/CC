@@ -3,16 +3,7 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
-    {
-      "key": "js_豆瓣热播",
-      "name": "🅱️追剧影院|T热播",
-      "type": 3,
-      "api": "./hccx/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/Doubanrebo.js"
-    },
+    
     {
       "key": "Wogg",
       "name": "🅱️玩偶哥哥|T追剧",
@@ -23,16 +14,7 @@
       "filterable": 0,
       "ext": "./lib/玩偶哥哥.json"
     },
-    {
-      "key": "Czspp",
-      "name": "🅱️厂长影视|T追剧",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.czzy88.com/"
-    },
+    
     {
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
@@ -53,16 +35,7 @@
       "filterable": 1,
       "ext": "./lib/威士影视.json"
     },
-    {
-      "key": "csp_Free",
-      "name": "🅱️Free影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/free影视.json"
-    },
+    
     {
       "key": "csp_xBPQ_玖八",
       "name": "🅱️玖八影视|T追剧",
@@ -382,36 +355,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "push_agent",
-      "name": "🅱️辅助推送|T功能",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-  
-    {
-      "key": "mtv_xp_动漫巴士",
-      "name": "🐼动漫丨巴士",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/动漫巴士.json"
-    },
-    {
-      "key": "mtv_xp_维奇动漫",
-      "name": "🐼维奇丨动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/维奇动漫.json"
-    },
+    
     {
       "key": "csp_短剧",
       "name": "🎧刷刷｜短剧",
