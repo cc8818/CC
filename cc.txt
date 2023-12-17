@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/cc.jar",
+  "spider": "./HeChengChaXiu.jar",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "cc自用",
   "sites": [
