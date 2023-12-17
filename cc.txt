@@ -14,8 +14,7 @@
       "filterable": 0,
       "ext": "./lib/玩偶哥哥.json"
     },
-    {"key":"徕米影视","name":"🚛徕米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/laimi.json"},
-    {"key":"HDmoli","name":"🚛魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/HDmoli.json"},
+    
     {
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
