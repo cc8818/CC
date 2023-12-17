@@ -1,5 +1,5 @@
 {
-  "spider": "./hccx/HeChengChaXiu.jar",
+  "spider": "https://jihulab.com/CC333/box/-/raw/main/jar/Api.js",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
