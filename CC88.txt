@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/CC333/box/-/raw/c180e5e268775786b48e675f3991c2b2791e74c5/jar/Doubanrebo.js"
+      "ext": "https://jihulab.com/CC333/box/-/raw/main/lib/Free影视.json"
     },
  {
       "key": "csp_爱看",
@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/CC333/box/-/raw/c180e5e268775786b48e675f3991c2b2791e74c5/jar/Doubanrebo.js"
+      "ext": "https://jihulab.com/CC333/box/-/raw/main/lib/爱看影视.json"
     },
  {
       "key": "csp_疯狗",
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/CC333/box/-/raw/c180e5e268775786b48e675f3991c2b2791e74c5/jar/Doubanrebo.js"
+      "ext": "https://jihulab.com/CC333/box/-/raw/main/lib/疯狗影视.json"
     },
     {
       "key": "csp_骚火",
