@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/CC333/box/-/raw/6de9bab7e5d7b3af1cb7aac4a110f0939f549696/lib/Doubanrebo.js",
+  "spider": "https://jihulab.com/CC333/box/-/blob/660809f2c3516219fb02a5258eb9ea8cfdd264a4/jar/HeChengChaXiu.jar",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
   "sites": [
