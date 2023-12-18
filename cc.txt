@@ -14,7 +14,14 @@
       "filterable": 0,
       "ext": "./lib/玩偶哥哥.json"
     },
-    
+     {
+      "key": "csp_xBPQ_星辰",
+      "name": "影视┃星辰[XBPQ]",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./lib/星辰.json"
+    },
     {
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
