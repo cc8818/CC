@@ -365,17 +365,8 @@
       "filterable": 1,
       "ext": "./lib/TVB云播.json"
     },
-     {
-      "key": "csp_XP_动漫巴士",
-      "name": "影视┃动漫巴士[XPF]",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/动漫巴士.json"
-    },
-     {
+     
+      {
       "key": "csp_XP_动漫岛",
       "name": "影视┃动漫岛[XPMF]",
       "type": 3,
