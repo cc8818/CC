@@ -355,17 +355,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-      {
-      "key": "csp_XP_动漫岛",
-      "name": "影视┃动漫岛[XPMF]",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/动漫岛.json"
-    },
-   
+     
     {
       "key": "csp_xBPQ_星辰",
       "name": "影视┃星辰[XBPQ]",
