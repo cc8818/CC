@@ -355,17 +355,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-     {
-      "key": "csp_XYQBiu_TVB云播",
-      "name": "影视┃TVB云播[XYQ]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/TVB云播.json"
-    },
-     
       {
       "key": "csp_XP_动漫岛",
       "name": "影视┃动漫岛[XPMF]",
@@ -376,16 +365,7 @@
       "filterable": 1,
       "ext": "./lib/动漫岛.json"
     },
-    {
-      "key": "csp_XYQBiu_小火电影VIP",
-      "name": "影视┃骚火•飞[XYQ]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/小火电影VIP.json"
-    },
+   
     {
       "key": "csp_xBPQ_星辰",
       "name": "影视┃星辰[XBPQ]",
@@ -394,16 +374,7 @@
       "playerType": "1",
       "ext": "./lib/星辰.json"
     },
-     {
-      "key": "csp_XYQBiu_七小时影院",
-      "name": "影视┃七小时影院[XYQ]",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/七小时影院.json"
-    },
+     
      {
       "key": "csp_xBPQ_素白",
       "name": "影视┃素白[XBPQ]",
