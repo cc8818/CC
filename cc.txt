@@ -7,7 +7,7 @@
       "key": "js_豆瓣热播",
       "name": "🅱️追剧影院|T热播",
       "type": 3,
-      "api": "./lib/Api.js",
+      "api": "https://jihulab.com/CC333/box/-/raw/b2c0ab909e66e562071a6db65ad4dcf96955b635/lib/Api.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
