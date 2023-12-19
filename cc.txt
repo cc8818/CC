@@ -11,7 +11,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/Doubanrebo.js"
+      "ext": "https://jihulab.com/CC333/box/-/raw/main/lib/Doubanrebo.js"
     },
     {
       "key": "Wogg",
