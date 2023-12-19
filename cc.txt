@@ -3,7 +3,16 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "cc自用",
   "sites": [
-     
+      {
+      "key": "js_豆瓣热播",
+      "name": "🅱️追剧影院|T热播",
+      "type": 3,
+      "api": "./lib/Api.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/Doubanrebo.js"
+    },
     {
       "key": "Wogg",
       "name": "🅱️玩偶哥哥|T追剧",
