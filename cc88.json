@@ -13,20 +13,9 @@
       "filterable": 1,
       "ext": "./lib/胖虎影视.json"
     },
-
-      {
-      "key": "csp_土豪",
-      "name": "请勿|传播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/土豪影视.json"
-    },
     {
       "key": "Wogg",
-      "name": "🅱️玩哥哥|T追剧",
+      "name": "请勿┃传播",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -34,7 +23,17 @@
       "filterable": 0,
       "ext": "./lib/玩偶哥哥.json"
     },
-     
+
+      {
+      "key": "csp_土豪",
+      "name": "🅱️土豪影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豪影视.json"
+    },
     {
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
