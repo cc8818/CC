@@ -25,28 +25,7 @@
       "ext": "./lib/维奇.json"
       "jar": "./jar/spider.jar"
     },
-         {
-            "key": "去看吧",
-            "name": "去看动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/去看吧.json"
-            "jar": "./jar/spider.jar"
-        },
-          {
-            "key": "csp_Dm84_3",
-            "name": "动漫巴士1",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/Dm84.json"
-            "jar": "./jar/spider.jar"
-        },
+       
         {
             "key": "动漫直链",
             "name": "动漫┃直链",
@@ -56,8 +35,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./lib/动漫直链.json"
-            "jar": "./jar/spider.jar"
-        },
+           },
     {
       "key": "Wogg",
       "name": "🅱️玩偶哥哥|T追剧",
