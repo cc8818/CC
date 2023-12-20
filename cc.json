@@ -3,6 +3,17 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "cc自用",
   "sites": [
+    {
+      "key": "meowtv_phys",
+      "name": "胖虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/胖虎影视.json"
+    },
+
       {
       "key": "csp_土豪",
       "name": "🅱️土豪影视|T追剧",
