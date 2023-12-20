@@ -22,6 +22,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/维奇.json"
+            "jar": "./jar/spider.jar"
         },
          {
             "key": "去看吧",
@@ -32,6 +33,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/去看吧.json"
+            "jar": "./jar/spider.jar"
         },
           {
             "key": "csp_Dm84_3",
@@ -42,6 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/Dm84.json"
+            "jar": "./jar/spider.jar"
         },
         {
             "key": "动漫直链",
@@ -52,6 +55,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./lib/动漫直链.json"
+            "jar": "./jar/spider.jar"
         },
     {
       "key": "Wogg",
