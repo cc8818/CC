@@ -4,14 +4,14 @@
   "warningText": "cc自用",
   "sites": [
       {
-      "key": "js_豆瓣热播",
-      "name": "🅱️追剧影院|T热播",
+      "key": "csp_土豪",
+      "name": "🅱️土豪影视|T追剧",
       "type": 3,
-      "api": "https://jihulab.com/CC333/box/-/raw/b2c0ab909e66e562071a6db65ad4dcf96955b635/lib/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://jihulab.com/CC333/box/-/raw/main/lib/Doubanrebo.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豪影视.json"
     },
     {
       "key": "Wogg",
