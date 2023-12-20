@@ -3,6 +3,16 @@
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "warningText": "cc自用",
   "sites": [
+     {
+      "key": "meowtv_syys",
+      "name": "速映┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.weetai.cn/xp/速映影视.json"
+    },
     {
       "key": "meowtv_phys",
       "name": "胖虎┃影视",
