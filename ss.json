@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar": "./jar/spider.jar"
+      
     },
  {
       "key": "嘉良",
@@ -32,7 +32,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/嘉良影视.js",
-      "jar": "./jar/spider.jar"
+      
     },
  {
       "key": "荐片",
