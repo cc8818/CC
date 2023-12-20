@@ -13,17 +13,18 @@
       "filterable": 1,
       "ext": "./lib/土豪影视.json"
     },
-     {
-            "key": "维奇",
-            "name": "维奇动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/维奇.json"
-            "jar": "./jar/spider.jar"
-        },
+      {
+      "key": "维奇",
+      "name": "维奇动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/维奇.json"
+      "jar": "./jar/spider.jar"
+    },
          {
             "key": "去看吧",
             "name": "去看动漫",
