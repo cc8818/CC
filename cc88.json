@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "meowtv_phys",
-      "name": "CC┃专用",
+      "name": "调试┃专用",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
