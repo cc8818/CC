@@ -4,6 +4,27 @@
   "warningText": "cc自用",
   "sites": [
      {
+      "key": "meowtv_phys",
+      "name": "CC┃专用",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/胖虎影视.json"
+    },
+    {
+      "key": "Wogg",
+      "name": "请勿┃传播",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩偶哥哥.json"
+    },
+
+     {
       "key": "meowtv_syys",
       "name": "速映┃影视",
       "type": 3,
@@ -13,16 +34,7 @@
       "filterable": 1,
       "ext": "./lib/速映影视.json"
     },
-    {
-      "key": "meowtv_phys",
-      "name": "胖虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/胖虎影视.json"
-    },
+    
     {"key":"圣城影视","name":"🚛圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/sc1080.json"},
 {"key":"速映影视","name":"🚛速映┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/suying.json"},
 {"key":"达达龟","name":"🚛达龟┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
@@ -58,17 +70,6 @@
       "filterable": 1,
       "ext": "./lib/土豪影视.json"
     },
-    {
-      "key": "Wogg",
-      "name": "🅱️玩偶哥哥|T追剧",
-      "type": 3,
-      "api": "csp_XPathAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩偶哥哥.json"
-    },
-     
     {
       "key": "csp_骚火",
       "name": "🅱️骚火影视|T追剧",
